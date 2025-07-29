@@ -9,7 +9,7 @@
 
 //contact details
 global.ownernomer = "254740358165"
-global.dev = ["254740358165"]
+global.dev = ["254740358165,12362049918"]
 global.ownername = "DEVIL KING"
 global.ytname = "YT: DEVILSTORE"
 global.socialm = "GitHub: DEVILXKING"
