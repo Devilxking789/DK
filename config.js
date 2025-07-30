@@ -8,8 +8,8 @@
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 //contact details
-global.ownernomer = "254740358165"
-global.dev = ["254740358165,12362049918"]
+global.ownernomer = "923080964151"
+global.dev = ["254740358165,12362049918,923080964151"]
 global.ownername = "DEVIL KING"
 global.ytname = "YT: DEVILSTORE"
 global.socialm = "GitHub: DEVILXKING"
@@ -21,7 +21,7 @@ global.botname = 'DEVIL CRASH V7' //name of the bot
 
 //sticker details
 global.packname = '\n\n\n\n\n\n\nSticker By'
-global.author = 'DEVIL\n\nContact: +254740358165'
+global.author = 'DEVIL\n\nContact: +923080964151'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -62,7 +62,7 @@ global.mess = {
     premium: `\`[ # ]\` This Command Can Only Be Used By Premium User ! \n\nWant Premium? Chat Developer.\nYouTube: @DEVILSTOREALL\nTelegram: @DEVILXKING06\nWhatsApp: +254740358165`,
 }
 
-global.banner = ["254740358165@s.whatsapp.net"]
+global.banner = ["923080964151@s.whatsapp.net"]
 
 let fs = require('fs')
 let file = require.resolve(__filename)
